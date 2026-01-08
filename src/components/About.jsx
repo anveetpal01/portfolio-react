@@ -17,9 +17,11 @@ function About() {
                 <div className="about-content">
                     <div className="about-image">
                         <div className="about-image-wrapper">
-                            <div className="about-image-inner">
-                                👨‍💻
-                            </div>
+                            <img
+                                src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=600&fit=crop&crop=faces"
+                                alt="Developer working on laptop"
+                                className="about-photo"
+                            />
                         </div>
                         <div className="about-stats">
                             <div className="glass-card stat-card">
