@@ -20,7 +20,15 @@ function Projects() {
             tags: ["Python", "Flask", "XGBoost", "Machine Learning", "ETL"],
             link: null,
             icon: "🏥"
+        },
+        {
+            title: "Whisper Wall",
+            description: "A multi-user anonymous messaging platform built with FastAPI and React. Features - anonymously post, like, flag, real-time message updates, and a responsive UI. Next step - AI model integration for content moderation.",
+            tags: ["Python", "FastAPI", "React", "node.js", "sqlite"],
+            link: "https://whisper-wall-ultimate-project-front.vercel.app/",
+            icon: "💬"
         }
+
     ]
 
     return (
