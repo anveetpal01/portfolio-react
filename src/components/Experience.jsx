@@ -1,6 +1,15 @@
 function Experience() {
     const experiences = [
         {
+            role: "Python Developer Trainee",
+            company: "MiraiGate Technologies",
+            date: "Feb 2026 - Present",
+            description: [
+                "WILL ADD SOON..."
+            ],
+            tags: ["Python", "Selenium", "Pandas", "Power BI", "Data Analysis"]
+        },
+        {
             role: "Junior Consultant Intern",
             company: "Hosho Digital",
             date: "July 2025 - Nov 2025",
@@ -33,6 +42,7 @@ function Experience() {
             ],
             tags: ["Python", "Selenium", "Pandas", "Power BI", "Data Analysis"]
         }
+
     ]
 
     return (
