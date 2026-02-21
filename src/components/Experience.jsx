@@ -7,7 +7,7 @@ function Experience() {
             description: [
                 "WILL ADD SOON..."
             ],
-            tags: ["Python", "Selenium", "Pandas", "Power BI", "Data Analysis"]
+            tags: ["Python"]
         },
         {
             role: "Junior Consultant Intern",
