@@ -27,8 +27,15 @@ function Projects() {
             tags: ["Python", "FastAPI", "React", "node.js", "sqlite"],
             link: "https://whisper-wall-ultimate-project-front.vercel.app/",
             icon: "💬"
+        },
+        {
+            title: "Customer Churn Prediction",
+            description: "A machine learning model to predict customer churn for a telecommunications company. Utilizes logistic regression and random forest algorithms for accurate predictions.",
+            tags: ["Python", "Scikit-learn", "Pandas", "NumPy"],
+            link: "https://github.com/anveetpal01/Customer_Churn_Prediction",
+            icon: "📉"
         }
-
+            
     ]
 
     return (
