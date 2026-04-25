@@ -34,6 +34,13 @@ function Projects() {
             tags: ["Python", "Scikit-learn", "Pandas", "NumPy"],
             link: "https://github.com/anveetpal01/Customer_Churn_Prediction",
             icon: "📉"
+        },
+        {
+            title: "AI Essay Detector",
+            description: "A machine learning model to detect AI-generated essays and distinguish them from human-written ones. Utilizes natural language processing techniques and deep learning architectures.",
+            tags: ["Python", "TensorFlow", "Keras", "NLP"],
+            link: "https://github.com/anveetpal01/ai_essay_detector",
+            icon: "✍️"
         }
             
     ]
